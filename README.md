@@ -1,2 +1,2 @@
 # skyline-tech
-Table1 is about Cohort 13 students information and grades as they journey through coding process. 
+Table2 is about Students choice of course, for cohort 13 all  are Full Stack Engineering Student.
